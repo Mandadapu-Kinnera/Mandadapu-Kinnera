@@ -1,11 +1,60 @@
-- 👋 Hi, I’m @Mandadapu-Kinnera
-- 👀 I’m interested in web development, Data Analytics
-- 🌱 I’m currently learning python,react,java and etc...
-- Passionate in AI using Python
-  
+# 👋 Hi there, I'm Mandadapu Kinnera!
 
+🎓 Final-year B.Tech CSE (Cyber Security) student at **Malla Reddy University** | 💻 Full Stack Developer | 🛡 Cybersecurity Enthusiast | 🏆 Hackathon Winner
 
-<!---
-Mandadapu-Kinnera/Mandadapu-Kinnera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 About Me
+
+I'm a passionate developer who loves solving real-world problems through clean, scalable, and user-friendly software solutions. With a strong foundation in both frontend and backend development, I’ve built several full-stack applications and actively work on projects that make a difference.
+
+🔐 With a keen interest in **Cyber Security** and an academic CGPA of **9.38**, I combine technical skills and creativity to build secure and efficient systems.
+
+Recently, I won **1st Prize at Hack Nexus 2025**, a national-level hackathon held at BVRIT, and received a cash award of ₹8000 for an innovative software solution! 🚀
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+- **Frontend:** HTML, CSS, Tailwind, JavaScript, React, Next.js
+- **Backend:** Python, Flask, Node.js
+- **Database:** MySQL, MongoDB (basics)
+- **Tools:** Git, GitHub, Vercel, Netlify, VS Code
+- **Other:** Figma (UI Design), Postman, Canva, Google Workspace
+
+---
+
+## 🧠 Currently Working On
+
+- 🚧 A comprehensive project management web app with admin & contractor roles
+- 📋 Smart task tracking and progress monitoring systems
+- 🧩 Integrating Flask with dynamic MySQL-backed dashboards
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Winner – Hack Nexus 2025**, BVRIT (₹8000 Cash Prize)
+- 🎓 10/10 GPA in SSC | 98.1% in Intermediate
+- 📜 Certified in **Python**, **CSS**, **React**
+- 💡 Projects: Multi-Ad Management System, GourmetGuide, Smart Infra Tracker, etc.
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [GitHub](https://github.com/Mandadapu-Kinnera)
+- 🔗 [linkedin](https://www.linkedin.com/in/kinnera-mandadapu-b20668303/)
+- 📧 Email: mandadapukinnera@gmail.com
+- 🌐 [Portfolio](https://kinnera.vercel.app) 
+
+---
+
+### 🔥 GitHub Stats
+
+![Kinnera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mandadapu-Kinnera&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandadapu-Kinnera&layout=compact&theme=radical)
+
+---
+
+⭐ *Thanks for stopping by! Let’s build something amazing together!*
