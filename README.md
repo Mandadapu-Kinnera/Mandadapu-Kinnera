@@ -8,7 +8,7 @@
 
 I'm a passionate developer who loves solving real-world problems through clean, scalable, and user-friendly software solutions. With a strong foundation in both frontend and backend development, I’ve built several full-stack applications and actively work on projects that make a difference.
 
-🔐 With a keen interest in **Cyber Security** and an academic CGPA of **9.38**, I combine technical skills and creativity to build secure and efficient systems.
+🔐 With a keen interest in **Full Stack Development, UI/UX Designing and Data Analytics** and an academic CGPA of **9.47**, I combine technical skills and creativity to build secure and efficient systems.
 
 Recently, I won **1st Prize at Hack Nexus 2025**, a national-level hackathon held at BVRIT, and received a cash award of ₹8000 for an innovative software solution! 🚀
 
