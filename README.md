@@ -46,12 +46,8 @@ Recently, I won **1st Prize at Hack Nexus 2025**, a national-level hackathon hel
 - 🔗 [GitHub](https://github.com/Mandadapu-Kinnera)
 - 🔗 [linkedin](https://www.linkedin.com/in/kinnera-mandadapu-b20668303/)
 - 📧 Email: mandadapukinnera@gmail.com
-- 🌐 [Portfolio](https://kinnera.vercel.app) 
+- 🌐 [Portfolio](https://kinnera-portfolio.lovable.app/) 
 
 ---
 
-### GitHub Stats
-
-![Kinnera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mandadapu-Kinnera&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandadapu-Kinnera&layout=compact&theme=radical)
 
