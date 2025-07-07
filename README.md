@@ -1,8 +1,7 @@
 # Hi there, I'm Mandadapu Kinnera!
 
-Final-year B.Tech CSE (Cyber Security) student at **Malla Reddy University** | Full Stack Developer | AI & Data Science Enthusiast |  Hackathon Winner
+B.Tech CSE (Cyber Security) student at **Malla Reddy University** | Full Stack Developer | AI & Data Science Enthusiast |  Hackathon Winner
 
----
 
 ## About Me
 
@@ -12,7 +11,6 @@ With a keen interest in **Full Stack Development, UI/UX Designing and Data Analy
 
 Recently, I won **1st Prize at Hack Nexus 2025**, a national-level hackathon held at BVRIT, and received a cash award for an innovative software solution! 
 
----
 
 ## Tech Stack & Tools
 
@@ -22,7 +20,6 @@ Recently, I won **1st Prize at Hack Nexus 2025**, a national-level hackathon hel
 - **Tools:** Git, GitHub, Vercel, Netlify, VS Code
 - **Other:** Figma (UI Design), Postman, Canva, Google Workspace
 
----
 
 ## Currently Working On
 
@@ -30,7 +27,6 @@ Recently, I won **1st Prize at Hack Nexus 2025**, a national-level hackathon hel
 - Smart task tracking and progress monitoring systems
 - Integrating Flask with dynamic MySQL-backed dashboards
 
----
 
 ## Achievements
 
@@ -39,7 +35,6 @@ Recently, I won **1st Prize at Hack Nexus 2025**, a national-level hackathon hel
 - 📜 Certified in **Python**, **CSS**, **React**
 - 💡 Projects: Multi-Ad Management System, FinSmart, Smart Infra Tracker, etc.
 
----
 
 ## Connect With Me
 
@@ -47,7 +42,4 @@ Recently, I won **1st Prize at Hack Nexus 2025**, a national-level hackathon hel
 - 🔗 [linkedin](https://www.linkedin.com/in/kinnera-mandadapu-b20668303/)
 - 📧 Email: mandadapukinnera@gmail.com
 - 🌐 [Portfolio](https://kinnera-portfolio.lovable.app/) 
-
----
-
 
