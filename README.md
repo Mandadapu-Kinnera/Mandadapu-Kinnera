@@ -14,7 +14,7 @@ Recently, I won **1st Prize at Hack Nexus 2025**, a national-level hackathon hel
 
 ## Tech Stack & Tools
 
-- **Frontend:** HTML, CSS, Tailwind, JavaScript, React, Next.js
+- **Frontend:** Tailwind, JavaScript, React, Next.js
 - **Backend:** Python, Flask, Node.js
 - **Database:** MySQL, MongoDB (basics)
 - **Tools:** Git, GitHub, Vercel, Netlify, VS Code
