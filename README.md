@@ -16,9 +16,9 @@ Recently, I won **1st Prize at Hack Nexus 2025**, a national-level hackathon hel
 
 - **Frontend:** Tailwind, JavaScript, React, Next.js
 - **Backend:** Python, Flask, Node.js
-- **Database:** MySQL, MongoDB (basics)
+- **Database:** MySQL, MongoDB 
 - **Tools:** Git, GitHub, Vercel, Netlify, VS Code
-- **Other:** Figma (UI Design), Postman, Canva, Google Workspace
+- **Other:** Postman, Canva, Google Workspace
 
 
 ## Currently Working On
